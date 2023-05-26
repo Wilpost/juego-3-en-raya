@@ -1,0 +1,12 @@
+{
+  "name": "juego-3-en-raya",
+  "version": "1.0.0",
+  "description": "He creado el juego del tres en raya con fines de aprender y practicar REACT :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
